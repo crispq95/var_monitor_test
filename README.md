@@ -8,9 +8,9 @@ Script to test changes on var_monitor.py. It shows if the changes made on var_mo
 
 There are 2 folders on this project : 
 
-* /logdir :  Stores usage files generated on test execution with the current version of var_monitor.py. 
-            logdir/usage_test : Stores the correct data of an execution of the test programm with 
-* /test_files : Stores the files used to run both memory and IO r/w tests. 
+* **/logdir :**  Stores usage files generated on test execution with the current version of var_monitor.py. 
+            **logdir/usage_test :** Stores the correct data of an execution of the test programm with 
+* **/test_files :** Stores the files used to run both memory and IO r/w tests. 
 
 ## How to use it 
 
