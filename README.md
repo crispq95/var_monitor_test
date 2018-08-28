@@ -21,7 +21,4 @@ To run the test you need to have installed pytest.
 ```
 Once test is finished if everything is correct it'll show something similar to the image below. 
 ![Correct Test Results](img/correct_test.png)
-<<<<<<< HEAD
 
-=======
->>>>>>> 19ba333130ed0c1cb08badc54991b98080d669e9
